@@ -1,0 +1,4511 @@
+{
+  "descripcion": "Poblacion ficticia anual de ventas diarias de tortas",
+  "estructura": {
+    "semanas": 52,
+    "dias_por_semana": 7,
+    "dias_semana": [
+      "lunes",
+      "martes",
+      "miercoles",
+      "jueves",
+      "viernes",
+      "sabado",
+      "domingo"
+    ],
+    "rango_ventas": [
+      30,
+      60
+    ]
+  },
+  "resumen": {
+    "total_dias": 364,
+    "minimo": 30,
+    "maximo": 60,
+    "promedio": 45.266,
+    "promedio_por_dia": {
+      "lunes": 39.5,
+      "martes": 40.596,
+      "miercoles": 41.673,
+      "jueves": 45.962,
+      "viernes": 50.25,
+      "sabado": 53.673,
+      "domingo": 45.212
+    }
+  },
+  "poblacion_por_semanas": [
+    [
+      {
+        "semana": 1,
+        "dia_global": 1,
+        "dia_semana": "lunes",
+        "ventas": 43
+      },
+      {
+        "semana": 1,
+        "dia_global": 2,
+        "dia_semana": "martes",
+        "ventas": 39
+      },
+      {
+        "semana": 1,
+        "dia_global": 3,
+        "dia_semana": "miercoles",
+        "ventas": 43
+      },
+      {
+        "semana": 1,
+        "dia_global": 4,
+        "dia_semana": "jueves",
+        "ventas": 40
+      },
+      {
+        "semana": 1,
+        "dia_global": 5,
+        "dia_semana": "viernes",
+        "ventas": 51
+      },
+      {
+        "semana": 1,
+        "dia_global": 6,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 1,
+        "dia_global": 7,
+        "dia_semana": "domingo",
+        "ventas": 51
+      }
+    ],
+    [
+      {
+        "semana": 2,
+        "dia_global": 8,
+        "dia_semana": "lunes",
+        "ventas": 42
+      },
+      {
+        "semana": 2,
+        "dia_global": 9,
+        "dia_semana": "martes",
+        "ventas": 40
+      },
+      {
+        "semana": 2,
+        "dia_global": 10,
+        "dia_semana": "miercoles",
+        "ventas": 40
+      },
+      {
+        "semana": 2,
+        "dia_global": 11,
+        "dia_semana": "jueves",
+        "ventas": 40
+      },
+      {
+        "semana": 2,
+        "dia_global": 12,
+        "dia_semana": "viernes",
+        "ventas": 54
+      },
+      {
+        "semana": 2,
+        "dia_global": 13,
+        "dia_semana": "sabado",
+        "ventas": 49
+      },
+      {
+        "semana": 2,
+        "dia_global": 14,
+        "dia_semana": "domingo",
+        "ventas": 55
+      }
+    ],
+    [
+      {
+        "semana": 3,
+        "dia_global": 15,
+        "dia_semana": "lunes",
+        "ventas": 45
+      },
+      {
+        "semana": 3,
+        "dia_global": 16,
+        "dia_semana": "martes",
+        "ventas": 49
+      },
+      {
+        "semana": 3,
+        "dia_global": 17,
+        "dia_semana": "miercoles",
+        "ventas": 38
+      },
+      {
+        "semana": 3,
+        "dia_global": 18,
+        "dia_semana": "jueves",
+        "ventas": 52
+      },
+      {
+        "semana": 3,
+        "dia_global": 19,
+        "dia_semana": "viernes",
+        "ventas": 49
+      },
+      {
+        "semana": 3,
+        "dia_global": 20,
+        "dia_semana": "sabado",
+        "ventas": 56
+      },
+      {
+        "semana": 3,
+        "dia_global": 21,
+        "dia_semana": "domingo",
+        "ventas": 44
+      }
+    ],
+    [
+      {
+        "semana": 4,
+        "dia_global": 22,
+        "dia_semana": "lunes",
+        "ventas": 49
+      },
+      {
+        "semana": 4,
+        "dia_global": 23,
+        "dia_semana": "martes",
+        "ventas": 37
+      },
+      {
+        "semana": 4,
+        "dia_global": 24,
+        "dia_semana": "miercoles",
+        "ventas": 47
+      },
+      {
+        "semana": 4,
+        "dia_global": 25,
+        "dia_semana": "jueves",
+        "ventas": 42
+      },
+      {
+        "semana": 4,
+        "dia_global": 26,
+        "dia_semana": "viernes",
+        "ventas": 36
+      },
+      {
+        "semana": 4,
+        "dia_global": 27,
+        "dia_semana": "sabado",
+        "ventas": 42
+      },
+      {
+        "semana": 4,
+        "dia_global": 28,
+        "dia_semana": "domingo",
+        "ventas": 47
+      }
+    ],
+    [
+      {
+        "semana": 5,
+        "dia_global": 29,
+        "dia_semana": "lunes",
+        "ventas": 38
+      },
+      {
+        "semana": 5,
+        "dia_global": 30,
+        "dia_semana": "martes",
+        "ventas": 40
+      },
+      {
+        "semana": 5,
+        "dia_global": 31,
+        "dia_semana": "miercoles",
+        "ventas": 46
+      },
+      {
+        "semana": 5,
+        "dia_global": 32,
+        "dia_semana": "jueves",
+        "ventas": 38
+      },
+      {
+        "semana": 5,
+        "dia_global": 33,
+        "dia_semana": "viernes",
+        "ventas": 46
+      },
+      {
+        "semana": 5,
+        "dia_global": 34,
+        "dia_semana": "sabado",
+        "ventas": 59
+      },
+      {
+        "semana": 5,
+        "dia_global": 35,
+        "dia_semana": "domingo",
+        "ventas": 37
+      }
+    ],
+    [
+      {
+        "semana": 6,
+        "dia_global": 36,
+        "dia_semana": "lunes",
+        "ventas": 42
+      },
+      {
+        "semana": 6,
+        "dia_global": 37,
+        "dia_semana": "martes",
+        "ventas": 37
+      },
+      {
+        "semana": 6,
+        "dia_global": 38,
+        "dia_semana": "miercoles",
+        "ventas": 45
+      },
+      {
+        "semana": 6,
+        "dia_global": 39,
+        "dia_semana": "jueves",
+        "ventas": 39
+      },
+      {
+        "semana": 6,
+        "dia_global": 40,
+        "dia_semana": "viernes",
+        "ventas": 44
+      },
+      {
+        "semana": 6,
+        "dia_global": 41,
+        "dia_semana": "sabado",
+        "ventas": 51
+      },
+      {
+        "semana": 6,
+        "dia_global": 42,
+        "dia_semana": "domingo",
+        "ventas": 49
+      }
+    ],
+    [
+      {
+        "semana": 7,
+        "dia_global": 43,
+        "dia_semana": "lunes",
+        "ventas": 44
+      },
+      {
+        "semana": 7,
+        "dia_global": 44,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 7,
+        "dia_global": 45,
+        "dia_semana": "miercoles",
+        "ventas": 42
+      },
+      {
+        "semana": 7,
+        "dia_global": 46,
+        "dia_semana": "jueves",
+        "ventas": 46
+      },
+      {
+        "semana": 7,
+        "dia_global": 47,
+        "dia_semana": "viernes",
+        "ventas": 52
+      },
+      {
+        "semana": 7,
+        "dia_global": 48,
+        "dia_semana": "sabado",
+        "ventas": 50
+      },
+      {
+        "semana": 7,
+        "dia_global": 49,
+        "dia_semana": "domingo",
+        "ventas": 47
+      }
+    ],
+    [
+      {
+        "semana": 8,
+        "dia_global": 50,
+        "dia_semana": "lunes",
+        "ventas": 42
+      },
+      {
+        "semana": 8,
+        "dia_global": 51,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 8,
+        "dia_global": 52,
+        "dia_semana": "miercoles",
+        "ventas": 43
+      },
+      {
+        "semana": 8,
+        "dia_global": 53,
+        "dia_semana": "jueves",
+        "ventas": 44
+      },
+      {
+        "semana": 8,
+        "dia_global": 54,
+        "dia_semana": "viernes",
+        "ventas": 37
+      },
+      {
+        "semana": 8,
+        "dia_global": 55,
+        "dia_semana": "sabado",
+        "ventas": 60
+      },
+      {
+        "semana": 8,
+        "dia_global": 56,
+        "dia_semana": "domingo",
+        "ventas": 38
+      }
+    ],
+    [
+      {
+        "semana": 9,
+        "dia_global": 57,
+        "dia_semana": "lunes",
+        "ventas": 42
+      },
+      {
+        "semana": 9,
+        "dia_global": 58,
+        "dia_semana": "martes",
+        "ventas": 39
+      },
+      {
+        "semana": 9,
+        "dia_global": 59,
+        "dia_semana": "miercoles",
+        "ventas": 35
+      },
+      {
+        "semana": 9,
+        "dia_global": 60,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 9,
+        "dia_global": 61,
+        "dia_semana": "viernes",
+        "ventas": 48
+      },
+      {
+        "semana": 9,
+        "dia_global": 62,
+        "dia_semana": "sabado",
+        "ventas": 47
+      },
+      {
+        "semana": 9,
+        "dia_global": 63,
+        "dia_semana": "domingo",
+        "ventas": 30
+      }
+    ],
+    [
+      {
+        "semana": 10,
+        "dia_global": 64,
+        "dia_semana": "lunes",
+        "ventas": 39
+      },
+      {
+        "semana": 10,
+        "dia_global": 65,
+        "dia_semana": "martes",
+        "ventas": 38
+      },
+      {
+        "semana": 10,
+        "dia_global": 66,
+        "dia_semana": "miercoles",
+        "ventas": 44
+      },
+      {
+        "semana": 10,
+        "dia_global": 67,
+        "dia_semana": "jueves",
+        "ventas": 45
+      },
+      {
+        "semana": 10,
+        "dia_global": 68,
+        "dia_semana": "viernes",
+        "ventas": 52
+      },
+      {
+        "semana": 10,
+        "dia_global": 69,
+        "dia_semana": "sabado",
+        "ventas": 52
+      },
+      {
+        "semana": 10,
+        "dia_global": 70,
+        "dia_semana": "domingo",
+        "ventas": 53
+      }
+    ],
+    [
+      {
+        "semana": 11,
+        "dia_global": 71,
+        "dia_semana": "lunes",
+        "ventas": 38
+      },
+      {
+        "semana": 11,
+        "dia_global": 72,
+        "dia_semana": "martes",
+        "ventas": 32
+      },
+      {
+        "semana": 11,
+        "dia_global": 73,
+        "dia_semana": "miercoles",
+        "ventas": 35
+      },
+      {
+        "semana": 11,
+        "dia_global": 74,
+        "dia_semana": "jueves",
+        "ventas": 43
+      },
+      {
+        "semana": 11,
+        "dia_global": 75,
+        "dia_semana": "viernes",
+        "ventas": 43
+      },
+      {
+        "semana": 11,
+        "dia_global": 76,
+        "dia_semana": "sabado",
+        "ventas": 48
+      },
+      {
+        "semana": 11,
+        "dia_global": 77,
+        "dia_semana": "domingo",
+        "ventas": 34
+      }
+    ],
+    [
+      {
+        "semana": 12,
+        "dia_global": 78,
+        "dia_semana": "lunes",
+        "ventas": 44
+      },
+      {
+        "semana": 12,
+        "dia_global": 79,
+        "dia_semana": "martes",
+        "ventas": 30
+      },
+      {
+        "semana": 12,
+        "dia_global": 80,
+        "dia_semana": "miercoles",
+        "ventas": 30
+      },
+      {
+        "semana": 12,
+        "dia_global": 81,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 12,
+        "dia_global": 82,
+        "dia_semana": "viernes",
+        "ventas": 44
+      },
+      {
+        "semana": 12,
+        "dia_global": 83,
+        "dia_semana": "sabado",
+        "ventas": 48
+      },
+      {
+        "semana": 12,
+        "dia_global": 84,
+        "dia_semana": "domingo",
+        "ventas": 46
+      }
+    ],
+    [
+      {
+        "semana": 13,
+        "dia_global": 85,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 13,
+        "dia_global": 86,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 13,
+        "dia_global": 87,
+        "dia_semana": "miercoles",
+        "ventas": 39
+      },
+      {
+        "semana": 13,
+        "dia_global": 88,
+        "dia_semana": "jueves",
+        "ventas": 42
+      },
+      {
+        "semana": 13,
+        "dia_global": 89,
+        "dia_semana": "viernes",
+        "ventas": 41
+      },
+      {
+        "semana": 13,
+        "dia_global": 90,
+        "dia_semana": "sabado",
+        "ventas": 60
+      },
+      {
+        "semana": 13,
+        "dia_global": 91,
+        "dia_semana": "domingo",
+        "ventas": 46
+      }
+    ],
+    [
+      {
+        "semana": 14,
+        "dia_global": 92,
+        "dia_semana": "lunes",
+        "ventas": 41
+      },
+      {
+        "semana": 14,
+        "dia_global": 93,
+        "dia_semana": "martes",
+        "ventas": 36
+      },
+      {
+        "semana": 14,
+        "dia_global": 94,
+        "dia_semana": "miercoles",
+        "ventas": 38
+      },
+      {
+        "semana": 14,
+        "dia_global": 95,
+        "dia_semana": "jueves",
+        "ventas": 42
+      },
+      {
+        "semana": 14,
+        "dia_global": 96,
+        "dia_semana": "viernes",
+        "ventas": 51
+      },
+      {
+        "semana": 14,
+        "dia_global": 97,
+        "dia_semana": "sabado",
+        "ventas": 59
+      },
+      {
+        "semana": 14,
+        "dia_global": 98,
+        "dia_semana": "domingo",
+        "ventas": 46
+      }
+    ],
+    [
+      {
+        "semana": 15,
+        "dia_global": 99,
+        "dia_semana": "lunes",
+        "ventas": 44
+      },
+      {
+        "semana": 15,
+        "dia_global": 100,
+        "dia_semana": "martes",
+        "ventas": 34
+      },
+      {
+        "semana": 15,
+        "dia_global": 101,
+        "dia_semana": "miercoles",
+        "ventas": 42
+      },
+      {
+        "semana": 15,
+        "dia_global": 102,
+        "dia_semana": "jueves",
+        "ventas": 43
+      },
+      {
+        "semana": 15,
+        "dia_global": 103,
+        "dia_semana": "viernes",
+        "ventas": 55
+      },
+      {
+        "semana": 15,
+        "dia_global": 104,
+        "dia_semana": "sabado",
+        "ventas": 60
+      },
+      {
+        "semana": 15,
+        "dia_global": 105,
+        "dia_semana": "domingo",
+        "ventas": 52
+      }
+    ],
+    [
+      {
+        "semana": 16,
+        "dia_global": 106,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 16,
+        "dia_global": 107,
+        "dia_semana": "martes",
+        "ventas": 52
+      },
+      {
+        "semana": 16,
+        "dia_global": 108,
+        "dia_semana": "miercoles",
+        "ventas": 39
+      },
+      {
+        "semana": 16,
+        "dia_global": 109,
+        "dia_semana": "jueves",
+        "ventas": 44
+      },
+      {
+        "semana": 16,
+        "dia_global": 110,
+        "dia_semana": "viernes",
+        "ventas": 45
+      },
+      {
+        "semana": 16,
+        "dia_global": 111,
+        "dia_semana": "sabado",
+        "ventas": 58
+      },
+      {
+        "semana": 16,
+        "dia_global": 112,
+        "dia_semana": "domingo",
+        "ventas": 37
+      }
+    ],
+    [
+      {
+        "semana": 17,
+        "dia_global": 113,
+        "dia_semana": "lunes",
+        "ventas": 38
+      },
+      {
+        "semana": 17,
+        "dia_global": 114,
+        "dia_semana": "martes",
+        "ventas": 43
+      },
+      {
+        "semana": 17,
+        "dia_global": 115,
+        "dia_semana": "miercoles",
+        "ventas": 38
+      },
+      {
+        "semana": 17,
+        "dia_global": 116,
+        "dia_semana": "jueves",
+        "ventas": 48
+      },
+      {
+        "semana": 17,
+        "dia_global": 117,
+        "dia_semana": "viernes",
+        "ventas": 49
+      },
+      {
+        "semana": 17,
+        "dia_global": 118,
+        "dia_semana": "sabado",
+        "ventas": 51
+      },
+      {
+        "semana": 17,
+        "dia_global": 119,
+        "dia_semana": "domingo",
+        "ventas": 50
+      }
+    ],
+    [
+      {
+        "semana": 18,
+        "dia_global": 120,
+        "dia_semana": "lunes",
+        "ventas": 40
+      },
+      {
+        "semana": 18,
+        "dia_global": 121,
+        "dia_semana": "martes",
+        "ventas": 45
+      },
+      {
+        "semana": 18,
+        "dia_global": 122,
+        "dia_semana": "miercoles",
+        "ventas": 44
+      },
+      {
+        "semana": 18,
+        "dia_global": 123,
+        "dia_semana": "jueves",
+        "ventas": 54
+      },
+      {
+        "semana": 18,
+        "dia_global": 124,
+        "dia_semana": "viernes",
+        "ventas": 57
+      },
+      {
+        "semana": 18,
+        "dia_global": 125,
+        "dia_semana": "sabado",
+        "ventas": 51
+      },
+      {
+        "semana": 18,
+        "dia_global": 126,
+        "dia_semana": "domingo",
+        "ventas": 52
+      }
+    ],
+    [
+      {
+        "semana": 19,
+        "dia_global": 127,
+        "dia_semana": "lunes",
+        "ventas": 43
+      },
+      {
+        "semana": 19,
+        "dia_global": 128,
+        "dia_semana": "martes",
+        "ventas": 48
+      },
+      {
+        "semana": 19,
+        "dia_global": 129,
+        "dia_semana": "miercoles",
+        "ventas": 39
+      },
+      {
+        "semana": 19,
+        "dia_global": 130,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 19,
+        "dia_global": 131,
+        "dia_semana": "viernes",
+        "ventas": 56
+      },
+      {
+        "semana": 19,
+        "dia_global": 132,
+        "dia_semana": "sabado",
+        "ventas": 52
+      },
+      {
+        "semana": 19,
+        "dia_global": 133,
+        "dia_semana": "domingo",
+        "ventas": 32
+      }
+    ],
+    [
+      {
+        "semana": 20,
+        "dia_global": 134,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 20,
+        "dia_global": 135,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 20,
+        "dia_global": 136,
+        "dia_semana": "miercoles",
+        "ventas": 43
+      },
+      {
+        "semana": 20,
+        "dia_global": 137,
+        "dia_semana": "jueves",
+        "ventas": 54
+      },
+      {
+        "semana": 20,
+        "dia_global": 138,
+        "dia_semana": "viernes",
+        "ventas": 49
+      },
+      {
+        "semana": 20,
+        "dia_global": 139,
+        "dia_semana": "sabado",
+        "ventas": 50
+      },
+      {
+        "semana": 20,
+        "dia_global": 140,
+        "dia_semana": "domingo",
+        "ventas": 43
+      }
+    ],
+    [
+      {
+        "semana": 21,
+        "dia_global": 141,
+        "dia_semana": "lunes",
+        "ventas": 42
+      },
+      {
+        "semana": 21,
+        "dia_global": 142,
+        "dia_semana": "martes",
+        "ventas": 54
+      },
+      {
+        "semana": 21,
+        "dia_global": 143,
+        "dia_semana": "miercoles",
+        "ventas": 36
+      },
+      {
+        "semana": 21,
+        "dia_global": 144,
+        "dia_semana": "jueves",
+        "ventas": 46
+      },
+      {
+        "semana": 21,
+        "dia_global": 145,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 21,
+        "dia_global": 146,
+        "dia_semana": "sabado",
+        "ventas": 55
+      },
+      {
+        "semana": 21,
+        "dia_global": 147,
+        "dia_semana": "domingo",
+        "ventas": 47
+      }
+    ],
+    [
+      {
+        "semana": 22,
+        "dia_global": 148,
+        "dia_semana": "lunes",
+        "ventas": 44
+      },
+      {
+        "semana": 22,
+        "dia_global": 149,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 22,
+        "dia_global": 150,
+        "dia_semana": "miercoles",
+        "ventas": 42
+      },
+      {
+        "semana": 22,
+        "dia_global": 151,
+        "dia_semana": "jueves",
+        "ventas": 48
+      },
+      {
+        "semana": 22,
+        "dia_global": 152,
+        "dia_semana": "viernes",
+        "ventas": 58
+      },
+      {
+        "semana": 22,
+        "dia_global": 153,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 22,
+        "dia_global": 154,
+        "dia_semana": "domingo",
+        "ventas": 53
+      }
+    ],
+    [
+      {
+        "semana": 23,
+        "dia_global": 155,
+        "dia_semana": "lunes",
+        "ventas": 47
+      },
+      {
+        "semana": 23,
+        "dia_global": 156,
+        "dia_semana": "martes",
+        "ventas": 39
+      },
+      {
+        "semana": 23,
+        "dia_global": 157,
+        "dia_semana": "miercoles",
+        "ventas": 42
+      },
+      {
+        "semana": 23,
+        "dia_global": 158,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 23,
+        "dia_global": 159,
+        "dia_semana": "viernes",
+        "ventas": 53
+      },
+      {
+        "semana": 23,
+        "dia_global": 160,
+        "dia_semana": "sabado",
+        "ventas": 55
+      },
+      {
+        "semana": 23,
+        "dia_global": 161,
+        "dia_semana": "domingo",
+        "ventas": 43
+      }
+    ],
+    [
+      {
+        "semana": 24,
+        "dia_global": 162,
+        "dia_semana": "lunes",
+        "ventas": 30
+      },
+      {
+        "semana": 24,
+        "dia_global": 163,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 24,
+        "dia_global": 164,
+        "dia_semana": "miercoles",
+        "ventas": 48
+      },
+      {
+        "semana": 24,
+        "dia_global": 165,
+        "dia_semana": "jueves",
+        "ventas": 50
+      },
+      {
+        "semana": 24,
+        "dia_global": 166,
+        "dia_semana": "viernes",
+        "ventas": 52
+      },
+      {
+        "semana": 24,
+        "dia_global": 167,
+        "dia_semana": "sabado",
+        "ventas": 55
+      },
+      {
+        "semana": 24,
+        "dia_global": 168,
+        "dia_semana": "domingo",
+        "ventas": 45
+      }
+    ],
+    [
+      {
+        "semana": 25,
+        "dia_global": 169,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 25,
+        "dia_global": 170,
+        "dia_semana": "martes",
+        "ventas": 38
+      },
+      {
+        "semana": 25,
+        "dia_global": 171,
+        "dia_semana": "miercoles",
+        "ventas": 46
+      },
+      {
+        "semana": 25,
+        "dia_global": 172,
+        "dia_semana": "jueves",
+        "ventas": 47
+      },
+      {
+        "semana": 25,
+        "dia_global": 173,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 25,
+        "dia_global": 174,
+        "dia_semana": "sabado",
+        "ventas": 56
+      },
+      {
+        "semana": 25,
+        "dia_global": 175,
+        "dia_semana": "domingo",
+        "ventas": 50
+      }
+    ],
+    [
+      {
+        "semana": 26,
+        "dia_global": 176,
+        "dia_semana": "lunes",
+        "ventas": 45
+      },
+      {
+        "semana": 26,
+        "dia_global": 177,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 26,
+        "dia_global": 178,
+        "dia_semana": "miercoles",
+        "ventas": 43
+      },
+      {
+        "semana": 26,
+        "dia_global": 179,
+        "dia_semana": "jueves",
+        "ventas": 42
+      },
+      {
+        "semana": 26,
+        "dia_global": 180,
+        "dia_semana": "viernes",
+        "ventas": 49
+      },
+      {
+        "semana": 26,
+        "dia_global": 181,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 26,
+        "dia_global": 182,
+        "dia_semana": "domingo",
+        "ventas": 40
+      }
+    ],
+    [
+      {
+        "semana": 27,
+        "dia_global": 183,
+        "dia_semana": "lunes",
+        "ventas": 33
+      },
+      {
+        "semana": 27,
+        "dia_global": 184,
+        "dia_semana": "martes",
+        "ventas": 38
+      },
+      {
+        "semana": 27,
+        "dia_global": 185,
+        "dia_semana": "miercoles",
+        "ventas": 40
+      },
+      {
+        "semana": 27,
+        "dia_global": 186,
+        "dia_semana": "jueves",
+        "ventas": 44
+      },
+      {
+        "semana": 27,
+        "dia_global": 187,
+        "dia_semana": "viernes",
+        "ventas": 55
+      },
+      {
+        "semana": 27,
+        "dia_global": 188,
+        "dia_semana": "sabado",
+        "ventas": 52
+      },
+      {
+        "semana": 27,
+        "dia_global": 189,
+        "dia_semana": "domingo",
+        "ventas": 50
+      }
+    ],
+    [
+      {
+        "semana": 28,
+        "dia_global": 190,
+        "dia_semana": "lunes",
+        "ventas": 35
+      },
+      {
+        "semana": 28,
+        "dia_global": 191,
+        "dia_semana": "martes",
+        "ventas": 49
+      },
+      {
+        "semana": 28,
+        "dia_global": 192,
+        "dia_semana": "miercoles",
+        "ventas": 36
+      },
+      {
+        "semana": 28,
+        "dia_global": 193,
+        "dia_semana": "jueves",
+        "ventas": 41
+      },
+      {
+        "semana": 28,
+        "dia_global": 194,
+        "dia_semana": "viernes",
+        "ventas": 49
+      },
+      {
+        "semana": 28,
+        "dia_global": 195,
+        "dia_semana": "sabado",
+        "ventas": 50
+      },
+      {
+        "semana": 28,
+        "dia_global": 196,
+        "dia_semana": "domingo",
+        "ventas": 43
+      }
+    ],
+    [
+      {
+        "semana": 29,
+        "dia_global": 197,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 29,
+        "dia_global": 198,
+        "dia_semana": "martes",
+        "ventas": 45
+      },
+      {
+        "semana": 29,
+        "dia_global": 199,
+        "dia_semana": "miercoles",
+        "ventas": 46
+      },
+      {
+        "semana": 29,
+        "dia_global": 200,
+        "dia_semana": "jueves",
+        "ventas": 48
+      },
+      {
+        "semana": 29,
+        "dia_global": 201,
+        "dia_semana": "viernes",
+        "ventas": 43
+      },
+      {
+        "semana": 29,
+        "dia_global": 202,
+        "dia_semana": "sabado",
+        "ventas": 59
+      },
+      {
+        "semana": 29,
+        "dia_global": 203,
+        "dia_semana": "domingo",
+        "ventas": 42
+      }
+    ],
+    [
+      {
+        "semana": 30,
+        "dia_global": 204,
+        "dia_semana": "lunes",
+        "ventas": 30
+      },
+      {
+        "semana": 30,
+        "dia_global": 205,
+        "dia_semana": "martes",
+        "ventas": 34
+      },
+      {
+        "semana": 30,
+        "dia_global": 206,
+        "dia_semana": "miercoles",
+        "ventas": 45
+      },
+      {
+        "semana": 30,
+        "dia_global": 207,
+        "dia_semana": "jueves",
+        "ventas": 50
+      },
+      {
+        "semana": 30,
+        "dia_global": 208,
+        "dia_semana": "viernes",
+        "ventas": 43
+      },
+      {
+        "semana": 30,
+        "dia_global": 209,
+        "dia_semana": "sabado",
+        "ventas": 55
+      },
+      {
+        "semana": 30,
+        "dia_global": 210,
+        "dia_semana": "domingo",
+        "ventas": 41
+      }
+    ],
+    [
+      {
+        "semana": 31,
+        "dia_global": 211,
+        "dia_semana": "lunes",
+        "ventas": 52
+      },
+      {
+        "semana": 31,
+        "dia_global": 212,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 31,
+        "dia_global": 213,
+        "dia_semana": "miercoles",
+        "ventas": 47
+      },
+      {
+        "semana": 31,
+        "dia_global": 214,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 31,
+        "dia_global": 215,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 31,
+        "dia_global": 216,
+        "dia_semana": "sabado",
+        "ventas": 60
+      },
+      {
+        "semana": 31,
+        "dia_global": 217,
+        "dia_semana": "domingo",
+        "ventas": 47
+      }
+    ],
+    [
+      {
+        "semana": 32,
+        "dia_global": 218,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 32,
+        "dia_global": 219,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 32,
+        "dia_global": 220,
+        "dia_semana": "miercoles",
+        "ventas": 35
+      },
+      {
+        "semana": 32,
+        "dia_global": 221,
+        "dia_semana": "jueves",
+        "ventas": 45
+      },
+      {
+        "semana": 32,
+        "dia_global": 222,
+        "dia_semana": "viernes",
+        "ventas": 59
+      },
+      {
+        "semana": 32,
+        "dia_global": 223,
+        "dia_semana": "sabado",
+        "ventas": 49
+      },
+      {
+        "semana": 32,
+        "dia_global": 224,
+        "dia_semana": "domingo",
+        "ventas": 44
+      }
+    ],
+    [
+      {
+        "semana": 33,
+        "dia_global": 225,
+        "dia_semana": "lunes",
+        "ventas": 35
+      },
+      {
+        "semana": 33,
+        "dia_global": 226,
+        "dia_semana": "martes",
+        "ventas": 43
+      },
+      {
+        "semana": 33,
+        "dia_global": 227,
+        "dia_semana": "miercoles",
+        "ventas": 41
+      },
+      {
+        "semana": 33,
+        "dia_global": 228,
+        "dia_semana": "jueves",
+        "ventas": 59
+      },
+      {
+        "semana": 33,
+        "dia_global": 229,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 33,
+        "dia_global": 230,
+        "dia_semana": "sabado",
+        "ventas": 48
+      },
+      {
+        "semana": 33,
+        "dia_global": 231,
+        "dia_semana": "domingo",
+        "ventas": 47
+      }
+    ],
+    [
+      {
+        "semana": 34,
+        "dia_global": 232,
+        "dia_semana": "lunes",
+        "ventas": 39
+      },
+      {
+        "semana": 34,
+        "dia_global": 233,
+        "dia_semana": "martes",
+        "ventas": 31
+      },
+      {
+        "semana": 34,
+        "dia_global": 234,
+        "dia_semana": "miercoles",
+        "ventas": 36
+      },
+      {
+        "semana": 34,
+        "dia_global": 235,
+        "dia_semana": "jueves",
+        "ventas": 51
+      },
+      {
+        "semana": 34,
+        "dia_global": 236,
+        "dia_semana": "viernes",
+        "ventas": 48
+      },
+      {
+        "semana": 34,
+        "dia_global": 237,
+        "dia_semana": "sabado",
+        "ventas": 45
+      },
+      {
+        "semana": 34,
+        "dia_global": 238,
+        "dia_semana": "domingo",
+        "ventas": 43
+      }
+    ],
+    [
+      {
+        "semana": 35,
+        "dia_global": 239,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 35,
+        "dia_global": 240,
+        "dia_semana": "martes",
+        "ventas": 36
+      },
+      {
+        "semana": 35,
+        "dia_global": 241,
+        "dia_semana": "miercoles",
+        "ventas": 46
+      },
+      {
+        "semana": 35,
+        "dia_global": 242,
+        "dia_semana": "jueves",
+        "ventas": 42
+      },
+      {
+        "semana": 35,
+        "dia_global": 243,
+        "dia_semana": "viernes",
+        "ventas": 53
+      },
+      {
+        "semana": 35,
+        "dia_global": 244,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 35,
+        "dia_global": 245,
+        "dia_semana": "domingo",
+        "ventas": 54
+      }
+    ],
+    [
+      {
+        "semana": 36,
+        "dia_global": 246,
+        "dia_semana": "lunes",
+        "ventas": 44
+      },
+      {
+        "semana": 36,
+        "dia_global": 247,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 36,
+        "dia_global": 248,
+        "dia_semana": "miercoles",
+        "ventas": 55
+      },
+      {
+        "semana": 36,
+        "dia_global": 249,
+        "dia_semana": "jueves",
+        "ventas": 50
+      },
+      {
+        "semana": 36,
+        "dia_global": 250,
+        "dia_semana": "viernes",
+        "ventas": 54
+      },
+      {
+        "semana": 36,
+        "dia_global": 251,
+        "dia_semana": "sabado",
+        "ventas": 60
+      },
+      {
+        "semana": 36,
+        "dia_global": 252,
+        "dia_semana": "domingo",
+        "ventas": 56
+      }
+    ],
+    [
+      {
+        "semana": 37,
+        "dia_global": 253,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 37,
+        "dia_global": 254,
+        "dia_semana": "martes",
+        "ventas": 39
+      },
+      {
+        "semana": 37,
+        "dia_global": 255,
+        "dia_semana": "miercoles",
+        "ventas": 37
+      },
+      {
+        "semana": 37,
+        "dia_global": 256,
+        "dia_semana": "jueves",
+        "ventas": 39
+      },
+      {
+        "semana": 37,
+        "dia_global": 257,
+        "dia_semana": "viernes",
+        "ventas": 59
+      },
+      {
+        "semana": 37,
+        "dia_global": 258,
+        "dia_semana": "sabado",
+        "ventas": 46
+      },
+      {
+        "semana": 37,
+        "dia_global": 259,
+        "dia_semana": "domingo",
+        "ventas": 38
+      }
+    ],
+    [
+      {
+        "semana": 38,
+        "dia_global": 260,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 38,
+        "dia_global": 261,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 38,
+        "dia_global": 262,
+        "dia_semana": "miercoles",
+        "ventas": 37
+      },
+      {
+        "semana": 38,
+        "dia_global": 263,
+        "dia_semana": "jueves",
+        "ventas": 46
+      },
+      {
+        "semana": 38,
+        "dia_global": 264,
+        "dia_semana": "viernes",
+        "ventas": 55
+      },
+      {
+        "semana": 38,
+        "dia_global": 265,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 38,
+        "dia_global": 266,
+        "dia_semana": "domingo",
+        "ventas": 46
+      }
+    ],
+    [
+      {
+        "semana": 39,
+        "dia_global": 267,
+        "dia_semana": "lunes",
+        "ventas": 43
+      },
+      {
+        "semana": 39,
+        "dia_global": 268,
+        "dia_semana": "martes",
+        "ventas": 40
+      },
+      {
+        "semana": 39,
+        "dia_global": 269,
+        "dia_semana": "miercoles",
+        "ventas": 48
+      },
+      {
+        "semana": 39,
+        "dia_global": 270,
+        "dia_semana": "jueves",
+        "ventas": 46
+      },
+      {
+        "semana": 39,
+        "dia_global": 271,
+        "dia_semana": "viernes",
+        "ventas": 57
+      },
+      {
+        "semana": 39,
+        "dia_global": 272,
+        "dia_semana": "sabado",
+        "ventas": 50
+      },
+      {
+        "semana": 39,
+        "dia_global": 273,
+        "dia_semana": "domingo",
+        "ventas": 53
+      }
+    ],
+    [
+      {
+        "semana": 40,
+        "dia_global": 274,
+        "dia_semana": "lunes",
+        "ventas": 35
+      },
+      {
+        "semana": 40,
+        "dia_global": 275,
+        "dia_semana": "martes",
+        "ventas": 36
+      },
+      {
+        "semana": 40,
+        "dia_global": 276,
+        "dia_semana": "miercoles",
+        "ventas": 37
+      },
+      {
+        "semana": 40,
+        "dia_global": 277,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 40,
+        "dia_global": 278,
+        "dia_semana": "viernes",
+        "ventas": 47
+      },
+      {
+        "semana": 40,
+        "dia_global": 279,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 40,
+        "dia_global": 280,
+        "dia_semana": "domingo",
+        "ventas": 45
+      }
+    ],
+    [
+      {
+        "semana": 41,
+        "dia_global": 281,
+        "dia_semana": "lunes",
+        "ventas": 46
+      },
+      {
+        "semana": 41,
+        "dia_global": 282,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 41,
+        "dia_global": 283,
+        "dia_semana": "miercoles",
+        "ventas": 37
+      },
+      {
+        "semana": 41,
+        "dia_global": 284,
+        "dia_semana": "jueves",
+        "ventas": 45
+      },
+      {
+        "semana": 41,
+        "dia_global": 285,
+        "dia_semana": "viernes",
+        "ventas": 47
+      },
+      {
+        "semana": 41,
+        "dia_global": 286,
+        "dia_semana": "sabado",
+        "ventas": 54
+      },
+      {
+        "semana": 41,
+        "dia_global": 287,
+        "dia_semana": "domingo",
+        "ventas": 46
+      }
+    ],
+    [
+      {
+        "semana": 42,
+        "dia_global": 288,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 42,
+        "dia_global": 289,
+        "dia_semana": "martes",
+        "ventas": 36
+      },
+      {
+        "semana": 42,
+        "dia_global": 290,
+        "dia_semana": "miercoles",
+        "ventas": 42
+      },
+      {
+        "semana": 42,
+        "dia_global": 291,
+        "dia_semana": "jueves",
+        "ventas": 57
+      },
+      {
+        "semana": 42,
+        "dia_global": 292,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 42,
+        "dia_global": 293,
+        "dia_semana": "sabado",
+        "ventas": 51
+      },
+      {
+        "semana": 42,
+        "dia_global": 294,
+        "dia_semana": "domingo",
+        "ventas": 54
+      }
+    ],
+    [
+      {
+        "semana": 43,
+        "dia_global": 295,
+        "dia_semana": "lunes",
+        "ventas": 34
+      },
+      {
+        "semana": 43,
+        "dia_global": 296,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 43,
+        "dia_global": 297,
+        "dia_semana": "miercoles",
+        "ventas": 48
+      },
+      {
+        "semana": 43,
+        "dia_global": 298,
+        "dia_semana": "jueves",
+        "ventas": 35
+      },
+      {
+        "semana": 43,
+        "dia_global": 299,
+        "dia_semana": "viernes",
+        "ventas": 53
+      },
+      {
+        "semana": 43,
+        "dia_global": 300,
+        "dia_semana": "sabado",
+        "ventas": 57
+      },
+      {
+        "semana": 43,
+        "dia_global": 301,
+        "dia_semana": "domingo",
+        "ventas": 40
+      }
+    ],
+    [
+      {
+        "semana": 44,
+        "dia_global": 302,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 44,
+        "dia_global": 303,
+        "dia_semana": "martes",
+        "ventas": 48
+      },
+      {
+        "semana": 44,
+        "dia_global": 304,
+        "dia_semana": "miercoles",
+        "ventas": 45
+      },
+      {
+        "semana": 44,
+        "dia_global": 305,
+        "dia_semana": "jueves",
+        "ventas": 43
+      },
+      {
+        "semana": 44,
+        "dia_global": 306,
+        "dia_semana": "viernes",
+        "ventas": 42
+      },
+      {
+        "semana": 44,
+        "dia_global": 307,
+        "dia_semana": "sabado",
+        "ventas": 52
+      },
+      {
+        "semana": 44,
+        "dia_global": 308,
+        "dia_semana": "domingo",
+        "ventas": 40
+      }
+    ],
+    [
+      {
+        "semana": 45,
+        "dia_global": 309,
+        "dia_semana": "lunes",
+        "ventas": 40
+      },
+      {
+        "semana": 45,
+        "dia_global": 310,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 45,
+        "dia_global": 311,
+        "dia_semana": "miercoles",
+        "ventas": 45
+      },
+      {
+        "semana": 45,
+        "dia_global": 312,
+        "dia_semana": "jueves",
+        "ventas": 50
+      },
+      {
+        "semana": 45,
+        "dia_global": 313,
+        "dia_semana": "viernes",
+        "ventas": 56
+      },
+      {
+        "semana": 45,
+        "dia_global": 314,
+        "dia_semana": "sabado",
+        "ventas": 60
+      },
+      {
+        "semana": 45,
+        "dia_global": 315,
+        "dia_semana": "domingo",
+        "ventas": 42
+      }
+    ],
+    [
+      {
+        "semana": 46,
+        "dia_global": 316,
+        "dia_semana": "lunes",
+        "ventas": 37
+      },
+      {
+        "semana": 46,
+        "dia_global": 317,
+        "dia_semana": "martes",
+        "ventas": 44
+      },
+      {
+        "semana": 46,
+        "dia_global": 318,
+        "dia_semana": "miercoles",
+        "ventas": 46
+      },
+      {
+        "semana": 46,
+        "dia_global": 319,
+        "dia_semana": "jueves",
+        "ventas": 51
+      },
+      {
+        "semana": 46,
+        "dia_global": 320,
+        "dia_semana": "viernes",
+        "ventas": 54
+      },
+      {
+        "semana": 46,
+        "dia_global": 321,
+        "dia_semana": "sabado",
+        "ventas": 57
+      },
+      {
+        "semana": 46,
+        "dia_global": 322,
+        "dia_semana": "domingo",
+        "ventas": 43
+      }
+    ],
+    [
+      {
+        "semana": 47,
+        "dia_global": 323,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 47,
+        "dia_global": 324,
+        "dia_semana": "martes",
+        "ventas": 45
+      },
+      {
+        "semana": 47,
+        "dia_global": 325,
+        "dia_semana": "miercoles",
+        "ventas": 42
+      },
+      {
+        "semana": 47,
+        "dia_global": 326,
+        "dia_semana": "jueves",
+        "ventas": 47
+      },
+      {
+        "semana": 47,
+        "dia_global": 327,
+        "dia_semana": "viernes",
+        "ventas": 53
+      },
+      {
+        "semana": 47,
+        "dia_global": 328,
+        "dia_semana": "sabado",
+        "ventas": 56
+      },
+      {
+        "semana": 47,
+        "dia_global": 329,
+        "dia_semana": "domingo",
+        "ventas": 44
+      }
+    ],
+    [
+      {
+        "semana": 48,
+        "dia_global": 330,
+        "dia_semana": "lunes",
+        "ventas": 41
+      },
+      {
+        "semana": 48,
+        "dia_global": 331,
+        "dia_semana": "martes",
+        "ventas": 42
+      },
+      {
+        "semana": 48,
+        "dia_global": 332,
+        "dia_semana": "miercoles",
+        "ventas": 33
+      },
+      {
+        "semana": 48,
+        "dia_global": 333,
+        "dia_semana": "jueves",
+        "ventas": 49
+      },
+      {
+        "semana": 48,
+        "dia_global": 334,
+        "dia_semana": "viernes",
+        "ventas": 60
+      },
+      {
+        "semana": 48,
+        "dia_global": 335,
+        "dia_semana": "sabado",
+        "ventas": 58
+      },
+      {
+        "semana": 48,
+        "dia_global": 336,
+        "dia_semana": "domingo",
+        "ventas": 51
+      }
+    ],
+    [
+      {
+        "semana": 49,
+        "dia_global": 337,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 49,
+        "dia_global": 338,
+        "dia_semana": "martes",
+        "ventas": 30
+      },
+      {
+        "semana": 49,
+        "dia_global": 339,
+        "dia_semana": "miercoles",
+        "ventas": 56
+      },
+      {
+        "semana": 49,
+        "dia_global": 340,
+        "dia_semana": "jueves",
+        "ventas": 46
+      },
+      {
+        "semana": 49,
+        "dia_global": 341,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 49,
+        "dia_global": 342,
+        "dia_semana": "sabado",
+        "ventas": 56
+      },
+      {
+        "semana": 49,
+        "dia_global": 343,
+        "dia_semana": "domingo",
+        "ventas": 44
+      }
+    ],
+    [
+      {
+        "semana": 50,
+        "dia_global": 344,
+        "dia_semana": "lunes",
+        "ventas": 36
+      },
+      {
+        "semana": 50,
+        "dia_global": 345,
+        "dia_semana": "martes",
+        "ventas": 36
+      },
+      {
+        "semana": 50,
+        "dia_global": 346,
+        "dia_semana": "miercoles",
+        "ventas": 35
+      },
+      {
+        "semana": 50,
+        "dia_global": 347,
+        "dia_semana": "jueves",
+        "ventas": 46
+      },
+      {
+        "semana": 50,
+        "dia_global": 348,
+        "dia_semana": "viernes",
+        "ventas": 50
+      },
+      {
+        "semana": 50,
+        "dia_global": 349,
+        "dia_semana": "sabado",
+        "ventas": 53
+      },
+      {
+        "semana": 50,
+        "dia_global": 350,
+        "dia_semana": "domingo",
+        "ventas": 45
+      }
+    ],
+    [
+      {
+        "semana": 51,
+        "dia_global": 351,
+        "dia_semana": "lunes",
+        "ventas": 44
+      },
+      {
+        "semana": 51,
+        "dia_global": 352,
+        "dia_semana": "martes",
+        "ventas": 35
+      },
+      {
+        "semana": 51,
+        "dia_global": 353,
+        "dia_semana": "miercoles",
+        "ventas": 45
+      },
+      {
+        "semana": 51,
+        "dia_global": 354,
+        "dia_semana": "jueves",
+        "ventas": 35
+      },
+      {
+        "semana": 51,
+        "dia_global": 355,
+        "dia_semana": "viernes",
+        "ventas": 59
+      },
+      {
+        "semana": 51,
+        "dia_global": 356,
+        "dia_semana": "sabado",
+        "ventas": 57
+      },
+      {
+        "semana": 51,
+        "dia_global": 357,
+        "dia_semana": "domingo",
+        "ventas": 48
+      }
+    ],
+    [
+      {
+        "semana": 52,
+        "dia_global": 358,
+        "dia_semana": "lunes",
+        "ventas": 34
+      },
+      {
+        "semana": 52,
+        "dia_global": 359,
+        "dia_semana": "martes",
+        "ventas": 30
+      },
+      {
+        "semana": 52,
+        "dia_global": 360,
+        "dia_semana": "miercoles",
+        "ventas": 40
+      },
+      {
+        "semana": 52,
+        "dia_global": 361,
+        "dia_semana": "jueves",
+        "ventas": 42
+      },
+      {
+        "semana": 52,
+        "dia_global": 362,
+        "dia_semana": "viernes",
+        "ventas": 46
+      },
+      {
+        "semana": 52,
+        "dia_global": 363,
+        "dia_semana": "sabado",
+        "ventas": 58
+      },
+      {
+        "semana": 52,
+        "dia_global": 364,
+        "dia_semana": "domingo",
+        "ventas": 38
+      }
+    ]
+  ],
+  "poblacion_plana": [
+    {
+      "semana": 1,
+      "dia_global": 1,
+      "dia_semana": "lunes",
+      "ventas": 43
+    },
+    {
+      "semana": 1,
+      "dia_global": 2,
+      "dia_semana": "martes",
+      "ventas": 39
+    },
+    {
+      "semana": 1,
+      "dia_global": 3,
+      "dia_semana": "miercoles",
+      "ventas": 43
+    },
+    {
+      "semana": 1,
+      "dia_global": 4,
+      "dia_semana": "jueves",
+      "ventas": 40
+    },
+    {
+      "semana": 1,
+      "dia_global": 5,
+      "dia_semana": "viernes",
+      "ventas": 51
+    },
+    {
+      "semana": 1,
+      "dia_global": 6,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 1,
+      "dia_global": 7,
+      "dia_semana": "domingo",
+      "ventas": 51
+    },
+    {
+      "semana": 2,
+      "dia_global": 8,
+      "dia_semana": "lunes",
+      "ventas": 42
+    },
+    {
+      "semana": 2,
+      "dia_global": 9,
+      "dia_semana": "martes",
+      "ventas": 40
+    },
+    {
+      "semana": 2,
+      "dia_global": 10,
+      "dia_semana": "miercoles",
+      "ventas": 40
+    },
+    {
+      "semana": 2,
+      "dia_global": 11,
+      "dia_semana": "jueves",
+      "ventas": 40
+    },
+    {
+      "semana": 2,
+      "dia_global": 12,
+      "dia_semana": "viernes",
+      "ventas": 54
+    },
+    {
+      "semana": 2,
+      "dia_global": 13,
+      "dia_semana": "sabado",
+      "ventas": 49
+    },
+    {
+      "semana": 2,
+      "dia_global": 14,
+      "dia_semana": "domingo",
+      "ventas": 55
+    },
+    {
+      "semana": 3,
+      "dia_global": 15,
+      "dia_semana": "lunes",
+      "ventas": 45
+    },
+    {
+      "semana": 3,
+      "dia_global": 16,
+      "dia_semana": "martes",
+      "ventas": 49
+    },
+    {
+      "semana": 3,
+      "dia_global": 17,
+      "dia_semana": "miercoles",
+      "ventas": 38
+    },
+    {
+      "semana": 3,
+      "dia_global": 18,
+      "dia_semana": "jueves",
+      "ventas": 52
+    },
+    {
+      "semana": 3,
+      "dia_global": 19,
+      "dia_semana": "viernes",
+      "ventas": 49
+    },
+    {
+      "semana": 3,
+      "dia_global": 20,
+      "dia_semana": "sabado",
+      "ventas": 56
+    },
+    {
+      "semana": 3,
+      "dia_global": 21,
+      "dia_semana": "domingo",
+      "ventas": 44
+    },
+    {
+      "semana": 4,
+      "dia_global": 22,
+      "dia_semana": "lunes",
+      "ventas": 49
+    },
+    {
+      "semana": 4,
+      "dia_global": 23,
+      "dia_semana": "martes",
+      "ventas": 37
+    },
+    {
+      "semana": 4,
+      "dia_global": 24,
+      "dia_semana": "miercoles",
+      "ventas": 47
+    },
+    {
+      "semana": 4,
+      "dia_global": 25,
+      "dia_semana": "jueves",
+      "ventas": 42
+    },
+    {
+      "semana": 4,
+      "dia_global": 26,
+      "dia_semana": "viernes",
+      "ventas": 36
+    },
+    {
+      "semana": 4,
+      "dia_global": 27,
+      "dia_semana": "sabado",
+      "ventas": 42
+    },
+    {
+      "semana": 4,
+      "dia_global": 28,
+      "dia_semana": "domingo",
+      "ventas": 47
+    },
+    {
+      "semana": 5,
+      "dia_global": 29,
+      "dia_semana": "lunes",
+      "ventas": 38
+    },
+    {
+      "semana": 5,
+      "dia_global": 30,
+      "dia_semana": "martes",
+      "ventas": 40
+    },
+    {
+      "semana": 5,
+      "dia_global": 31,
+      "dia_semana": "miercoles",
+      "ventas": 46
+    },
+    {
+      "semana": 5,
+      "dia_global": 32,
+      "dia_semana": "jueves",
+      "ventas": 38
+    },
+    {
+      "semana": 5,
+      "dia_global": 33,
+      "dia_semana": "viernes",
+      "ventas": 46
+    },
+    {
+      "semana": 5,
+      "dia_global": 34,
+      "dia_semana": "sabado",
+      "ventas": 59
+    },
+    {
+      "semana": 5,
+      "dia_global": 35,
+      "dia_semana": "domingo",
+      "ventas": 37
+    },
+    {
+      "semana": 6,
+      "dia_global": 36,
+      "dia_semana": "lunes",
+      "ventas": 42
+    },
+    {
+      "semana": 6,
+      "dia_global": 37,
+      "dia_semana": "martes",
+      "ventas": 37
+    },
+    {
+      "semana": 6,
+      "dia_global": 38,
+      "dia_semana": "miercoles",
+      "ventas": 45
+    },
+    {
+      "semana": 6,
+      "dia_global": 39,
+      "dia_semana": "jueves",
+      "ventas": 39
+    },
+    {
+      "semana": 6,
+      "dia_global": 40,
+      "dia_semana": "viernes",
+      "ventas": 44
+    },
+    {
+      "semana": 6,
+      "dia_global": 41,
+      "dia_semana": "sabado",
+      "ventas": 51
+    },
+    {
+      "semana": 6,
+      "dia_global": 42,
+      "dia_semana": "domingo",
+      "ventas": 49
+    },
+    {
+      "semana": 7,
+      "dia_global": 43,
+      "dia_semana": "lunes",
+      "ventas": 44
+    },
+    {
+      "semana": 7,
+      "dia_global": 44,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 7,
+      "dia_global": 45,
+      "dia_semana": "miercoles",
+      "ventas": 42
+    },
+    {
+      "semana": 7,
+      "dia_global": 46,
+      "dia_semana": "jueves",
+      "ventas": 46
+    },
+    {
+      "semana": 7,
+      "dia_global": 47,
+      "dia_semana": "viernes",
+      "ventas": 52
+    },
+    {
+      "semana": 7,
+      "dia_global": 48,
+      "dia_semana": "sabado",
+      "ventas": 50
+    },
+    {
+      "semana": 7,
+      "dia_global": 49,
+      "dia_semana": "domingo",
+      "ventas": 47
+    },
+    {
+      "semana": 8,
+      "dia_global": 50,
+      "dia_semana": "lunes",
+      "ventas": 42
+    },
+    {
+      "semana": 8,
+      "dia_global": 51,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 8,
+      "dia_global": 52,
+      "dia_semana": "miercoles",
+      "ventas": 43
+    },
+    {
+      "semana": 8,
+      "dia_global": 53,
+      "dia_semana": "jueves",
+      "ventas": 44
+    },
+    {
+      "semana": 8,
+      "dia_global": 54,
+      "dia_semana": "viernes",
+      "ventas": 37
+    },
+    {
+      "semana": 8,
+      "dia_global": 55,
+      "dia_semana": "sabado",
+      "ventas": 60
+    },
+    {
+      "semana": 8,
+      "dia_global": 56,
+      "dia_semana": "domingo",
+      "ventas": 38
+    },
+    {
+      "semana": 9,
+      "dia_global": 57,
+      "dia_semana": "lunes",
+      "ventas": 42
+    },
+    {
+      "semana": 9,
+      "dia_global": 58,
+      "dia_semana": "martes",
+      "ventas": 39
+    },
+    {
+      "semana": 9,
+      "dia_global": 59,
+      "dia_semana": "miercoles",
+      "ventas": 35
+    },
+    {
+      "semana": 9,
+      "dia_global": 60,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 9,
+      "dia_global": 61,
+      "dia_semana": "viernes",
+      "ventas": 48
+    },
+    {
+      "semana": 9,
+      "dia_global": 62,
+      "dia_semana": "sabado",
+      "ventas": 47
+    },
+    {
+      "semana": 9,
+      "dia_global": 63,
+      "dia_semana": "domingo",
+      "ventas": 30
+    },
+    {
+      "semana": 10,
+      "dia_global": 64,
+      "dia_semana": "lunes",
+      "ventas": 39
+    },
+    {
+      "semana": 10,
+      "dia_global": 65,
+      "dia_semana": "martes",
+      "ventas": 38
+    },
+    {
+      "semana": 10,
+      "dia_global": 66,
+      "dia_semana": "miercoles",
+      "ventas": 44
+    },
+    {
+      "semana": 10,
+      "dia_global": 67,
+      "dia_semana": "jueves",
+      "ventas": 45
+    },
+    {
+      "semana": 10,
+      "dia_global": 68,
+      "dia_semana": "viernes",
+      "ventas": 52
+    },
+    {
+      "semana": 10,
+      "dia_global": 69,
+      "dia_semana": "sabado",
+      "ventas": 52
+    },
+    {
+      "semana": 10,
+      "dia_global": 70,
+      "dia_semana": "domingo",
+      "ventas": 53
+    },
+    {
+      "semana": 11,
+      "dia_global": 71,
+      "dia_semana": "lunes",
+      "ventas": 38
+    },
+    {
+      "semana": 11,
+      "dia_global": 72,
+      "dia_semana": "martes",
+      "ventas": 32
+    },
+    {
+      "semana": 11,
+      "dia_global": 73,
+      "dia_semana": "miercoles",
+      "ventas": 35
+    },
+    {
+      "semana": 11,
+      "dia_global": 74,
+      "dia_semana": "jueves",
+      "ventas": 43
+    },
+    {
+      "semana": 11,
+      "dia_global": 75,
+      "dia_semana": "viernes",
+      "ventas": 43
+    },
+    {
+      "semana": 11,
+      "dia_global": 76,
+      "dia_semana": "sabado",
+      "ventas": 48
+    },
+    {
+      "semana": 11,
+      "dia_global": 77,
+      "dia_semana": "domingo",
+      "ventas": 34
+    },
+    {
+      "semana": 12,
+      "dia_global": 78,
+      "dia_semana": "lunes",
+      "ventas": 44
+    },
+    {
+      "semana": 12,
+      "dia_global": 79,
+      "dia_semana": "martes",
+      "ventas": 30
+    },
+    {
+      "semana": 12,
+      "dia_global": 80,
+      "dia_semana": "miercoles",
+      "ventas": 30
+    },
+    {
+      "semana": 12,
+      "dia_global": 81,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 12,
+      "dia_global": 82,
+      "dia_semana": "viernes",
+      "ventas": 44
+    },
+    {
+      "semana": 12,
+      "dia_global": 83,
+      "dia_semana": "sabado",
+      "ventas": 48
+    },
+    {
+      "semana": 12,
+      "dia_global": 84,
+      "dia_semana": "domingo",
+      "ventas": 46
+    },
+    {
+      "semana": 13,
+      "dia_global": 85,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 13,
+      "dia_global": 86,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 13,
+      "dia_global": 87,
+      "dia_semana": "miercoles",
+      "ventas": 39
+    },
+    {
+      "semana": 13,
+      "dia_global": 88,
+      "dia_semana": "jueves",
+      "ventas": 42
+    },
+    {
+      "semana": 13,
+      "dia_global": 89,
+      "dia_semana": "viernes",
+      "ventas": 41
+    },
+    {
+      "semana": 13,
+      "dia_global": 90,
+      "dia_semana": "sabado",
+      "ventas": 60
+    },
+    {
+      "semana": 13,
+      "dia_global": 91,
+      "dia_semana": "domingo",
+      "ventas": 46
+    },
+    {
+      "semana": 14,
+      "dia_global": 92,
+      "dia_semana": "lunes",
+      "ventas": 41
+    },
+    {
+      "semana": 14,
+      "dia_global": 93,
+      "dia_semana": "martes",
+      "ventas": 36
+    },
+    {
+      "semana": 14,
+      "dia_global": 94,
+      "dia_semana": "miercoles",
+      "ventas": 38
+    },
+    {
+      "semana": 14,
+      "dia_global": 95,
+      "dia_semana": "jueves",
+      "ventas": 42
+    },
+    {
+      "semana": 14,
+      "dia_global": 96,
+      "dia_semana": "viernes",
+      "ventas": 51
+    },
+    {
+      "semana": 14,
+      "dia_global": 97,
+      "dia_semana": "sabado",
+      "ventas": 59
+    },
+    {
+      "semana": 14,
+      "dia_global": 98,
+      "dia_semana": "domingo",
+      "ventas": 46
+    },
+    {
+      "semana": 15,
+      "dia_global": 99,
+      "dia_semana": "lunes",
+      "ventas": 44
+    },
+    {
+      "semana": 15,
+      "dia_global": 100,
+      "dia_semana": "martes",
+      "ventas": 34
+    },
+    {
+      "semana": 15,
+      "dia_global": 101,
+      "dia_semana": "miercoles",
+      "ventas": 42
+    },
+    {
+      "semana": 15,
+      "dia_global": 102,
+      "dia_semana": "jueves",
+      "ventas": 43
+    },
+    {
+      "semana": 15,
+      "dia_global": 103,
+      "dia_semana": "viernes",
+      "ventas": 55
+    },
+    {
+      "semana": 15,
+      "dia_global": 104,
+      "dia_semana": "sabado",
+      "ventas": 60
+    },
+    {
+      "semana": 15,
+      "dia_global": 105,
+      "dia_semana": "domingo",
+      "ventas": 52
+    },
+    {
+      "semana": 16,
+      "dia_global": 106,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 16,
+      "dia_global": 107,
+      "dia_semana": "martes",
+      "ventas": 52
+    },
+    {
+      "semana": 16,
+      "dia_global": 108,
+      "dia_semana": "miercoles",
+      "ventas": 39
+    },
+    {
+      "semana": 16,
+      "dia_global": 109,
+      "dia_semana": "jueves",
+      "ventas": 44
+    },
+    {
+      "semana": 16,
+      "dia_global": 110,
+      "dia_semana": "viernes",
+      "ventas": 45
+    },
+    {
+      "semana": 16,
+      "dia_global": 111,
+      "dia_semana": "sabado",
+      "ventas": 58
+    },
+    {
+      "semana": 16,
+      "dia_global": 112,
+      "dia_semana": "domingo",
+      "ventas": 37
+    },
+    {
+      "semana": 17,
+      "dia_global": 113,
+      "dia_semana": "lunes",
+      "ventas": 38
+    },
+    {
+      "semana": 17,
+      "dia_global": 114,
+      "dia_semana": "martes",
+      "ventas": 43
+    },
+    {
+      "semana": 17,
+      "dia_global": 115,
+      "dia_semana": "miercoles",
+      "ventas": 38
+    },
+    {
+      "semana": 17,
+      "dia_global": 116,
+      "dia_semana": "jueves",
+      "ventas": 48
+    },
+    {
+      "semana": 17,
+      "dia_global": 117,
+      "dia_semana": "viernes",
+      "ventas": 49
+    },
+    {
+      "semana": 17,
+      "dia_global": 118,
+      "dia_semana": "sabado",
+      "ventas": 51
+    },
+    {
+      "semana": 17,
+      "dia_global": 119,
+      "dia_semana": "domingo",
+      "ventas": 50
+    },
+    {
+      "semana": 18,
+      "dia_global": 120,
+      "dia_semana": "lunes",
+      "ventas": 40
+    },
+    {
+      "semana": 18,
+      "dia_global": 121,
+      "dia_semana": "martes",
+      "ventas": 45
+    },
+    {
+      "semana": 18,
+      "dia_global": 122,
+      "dia_semana": "miercoles",
+      "ventas": 44
+    },
+    {
+      "semana": 18,
+      "dia_global": 123,
+      "dia_semana": "jueves",
+      "ventas": 54
+    },
+    {
+      "semana": 18,
+      "dia_global": 124,
+      "dia_semana": "viernes",
+      "ventas": 57
+    },
+    {
+      "semana": 18,
+      "dia_global": 125,
+      "dia_semana": "sabado",
+      "ventas": 51
+    },
+    {
+      "semana": 18,
+      "dia_global": 126,
+      "dia_semana": "domingo",
+      "ventas": 52
+    },
+    {
+      "semana": 19,
+      "dia_global": 127,
+      "dia_semana": "lunes",
+      "ventas": 43
+    },
+    {
+      "semana": 19,
+      "dia_global": 128,
+      "dia_semana": "martes",
+      "ventas": 48
+    },
+    {
+      "semana": 19,
+      "dia_global": 129,
+      "dia_semana": "miercoles",
+      "ventas": 39
+    },
+    {
+      "semana": 19,
+      "dia_global": 130,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 19,
+      "dia_global": 131,
+      "dia_semana": "viernes",
+      "ventas": 56
+    },
+    {
+      "semana": 19,
+      "dia_global": 132,
+      "dia_semana": "sabado",
+      "ventas": 52
+    },
+    {
+      "semana": 19,
+      "dia_global": 133,
+      "dia_semana": "domingo",
+      "ventas": 32
+    },
+    {
+      "semana": 20,
+      "dia_global": 134,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 20,
+      "dia_global": 135,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 20,
+      "dia_global": 136,
+      "dia_semana": "miercoles",
+      "ventas": 43
+    },
+    {
+      "semana": 20,
+      "dia_global": 137,
+      "dia_semana": "jueves",
+      "ventas": 54
+    },
+    {
+      "semana": 20,
+      "dia_global": 138,
+      "dia_semana": "viernes",
+      "ventas": 49
+    },
+    {
+      "semana": 20,
+      "dia_global": 139,
+      "dia_semana": "sabado",
+      "ventas": 50
+    },
+    {
+      "semana": 20,
+      "dia_global": 140,
+      "dia_semana": "domingo",
+      "ventas": 43
+    },
+    {
+      "semana": 21,
+      "dia_global": 141,
+      "dia_semana": "lunes",
+      "ventas": 42
+    },
+    {
+      "semana": 21,
+      "dia_global": 142,
+      "dia_semana": "martes",
+      "ventas": 54
+    },
+    {
+      "semana": 21,
+      "dia_global": 143,
+      "dia_semana": "miercoles",
+      "ventas": 36
+    },
+    {
+      "semana": 21,
+      "dia_global": 144,
+      "dia_semana": "jueves",
+      "ventas": 46
+    },
+    {
+      "semana": 21,
+      "dia_global": 145,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 21,
+      "dia_global": 146,
+      "dia_semana": "sabado",
+      "ventas": 55
+    },
+    {
+      "semana": 21,
+      "dia_global": 147,
+      "dia_semana": "domingo",
+      "ventas": 47
+    },
+    {
+      "semana": 22,
+      "dia_global": 148,
+      "dia_semana": "lunes",
+      "ventas": 44
+    },
+    {
+      "semana": 22,
+      "dia_global": 149,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 22,
+      "dia_global": 150,
+      "dia_semana": "miercoles",
+      "ventas": 42
+    },
+    {
+      "semana": 22,
+      "dia_global": 151,
+      "dia_semana": "jueves",
+      "ventas": 48
+    },
+    {
+      "semana": 22,
+      "dia_global": 152,
+      "dia_semana": "viernes",
+      "ventas": 58
+    },
+    {
+      "semana": 22,
+      "dia_global": 153,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 22,
+      "dia_global": 154,
+      "dia_semana": "domingo",
+      "ventas": 53
+    },
+    {
+      "semana": 23,
+      "dia_global": 155,
+      "dia_semana": "lunes",
+      "ventas": 47
+    },
+    {
+      "semana": 23,
+      "dia_global": 156,
+      "dia_semana": "martes",
+      "ventas": 39
+    },
+    {
+      "semana": 23,
+      "dia_global": 157,
+      "dia_semana": "miercoles",
+      "ventas": 42
+    },
+    {
+      "semana": 23,
+      "dia_global": 158,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 23,
+      "dia_global": 159,
+      "dia_semana": "viernes",
+      "ventas": 53
+    },
+    {
+      "semana": 23,
+      "dia_global": 160,
+      "dia_semana": "sabado",
+      "ventas": 55
+    },
+    {
+      "semana": 23,
+      "dia_global": 161,
+      "dia_semana": "domingo",
+      "ventas": 43
+    },
+    {
+      "semana": 24,
+      "dia_global": 162,
+      "dia_semana": "lunes",
+      "ventas": 30
+    },
+    {
+      "semana": 24,
+      "dia_global": 163,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 24,
+      "dia_global": 164,
+      "dia_semana": "miercoles",
+      "ventas": 48
+    },
+    {
+      "semana": 24,
+      "dia_global": 165,
+      "dia_semana": "jueves",
+      "ventas": 50
+    },
+    {
+      "semana": 24,
+      "dia_global": 166,
+      "dia_semana": "viernes",
+      "ventas": 52
+    },
+    {
+      "semana": 24,
+      "dia_global": 167,
+      "dia_semana": "sabado",
+      "ventas": 55
+    },
+    {
+      "semana": 24,
+      "dia_global": 168,
+      "dia_semana": "domingo",
+      "ventas": 45
+    },
+    {
+      "semana": 25,
+      "dia_global": 169,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 25,
+      "dia_global": 170,
+      "dia_semana": "martes",
+      "ventas": 38
+    },
+    {
+      "semana": 25,
+      "dia_global": 171,
+      "dia_semana": "miercoles",
+      "ventas": 46
+    },
+    {
+      "semana": 25,
+      "dia_global": 172,
+      "dia_semana": "jueves",
+      "ventas": 47
+    },
+    {
+      "semana": 25,
+      "dia_global": 173,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 25,
+      "dia_global": 174,
+      "dia_semana": "sabado",
+      "ventas": 56
+    },
+    {
+      "semana": 25,
+      "dia_global": 175,
+      "dia_semana": "domingo",
+      "ventas": 50
+    },
+    {
+      "semana": 26,
+      "dia_global": 176,
+      "dia_semana": "lunes",
+      "ventas": 45
+    },
+    {
+      "semana": 26,
+      "dia_global": 177,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 26,
+      "dia_global": 178,
+      "dia_semana": "miercoles",
+      "ventas": 43
+    },
+    {
+      "semana": 26,
+      "dia_global": 179,
+      "dia_semana": "jueves",
+      "ventas": 42
+    },
+    {
+      "semana": 26,
+      "dia_global": 180,
+      "dia_semana": "viernes",
+      "ventas": 49
+    },
+    {
+      "semana": 26,
+      "dia_global": 181,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 26,
+      "dia_global": 182,
+      "dia_semana": "domingo",
+      "ventas": 40
+    },
+    {
+      "semana": 27,
+      "dia_global": 183,
+      "dia_semana": "lunes",
+      "ventas": 33
+    },
+    {
+      "semana": 27,
+      "dia_global": 184,
+      "dia_semana": "martes",
+      "ventas": 38
+    },
+    {
+      "semana": 27,
+      "dia_global": 185,
+      "dia_semana": "miercoles",
+      "ventas": 40
+    },
+    {
+      "semana": 27,
+      "dia_global": 186,
+      "dia_semana": "jueves",
+      "ventas": 44
+    },
+    {
+      "semana": 27,
+      "dia_global": 187,
+      "dia_semana": "viernes",
+      "ventas": 55
+    },
+    {
+      "semana": 27,
+      "dia_global": 188,
+      "dia_semana": "sabado",
+      "ventas": 52
+    },
+    {
+      "semana": 27,
+      "dia_global": 189,
+      "dia_semana": "domingo",
+      "ventas": 50
+    },
+    {
+      "semana": 28,
+      "dia_global": 190,
+      "dia_semana": "lunes",
+      "ventas": 35
+    },
+    {
+      "semana": 28,
+      "dia_global": 191,
+      "dia_semana": "martes",
+      "ventas": 49
+    },
+    {
+      "semana": 28,
+      "dia_global": 192,
+      "dia_semana": "miercoles",
+      "ventas": 36
+    },
+    {
+      "semana": 28,
+      "dia_global": 193,
+      "dia_semana": "jueves",
+      "ventas": 41
+    },
+    {
+      "semana": 28,
+      "dia_global": 194,
+      "dia_semana": "viernes",
+      "ventas": 49
+    },
+    {
+      "semana": 28,
+      "dia_global": 195,
+      "dia_semana": "sabado",
+      "ventas": 50
+    },
+    {
+      "semana": 28,
+      "dia_global": 196,
+      "dia_semana": "domingo",
+      "ventas": 43
+    },
+    {
+      "semana": 29,
+      "dia_global": 197,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 29,
+      "dia_global": 198,
+      "dia_semana": "martes",
+      "ventas": 45
+    },
+    {
+      "semana": 29,
+      "dia_global": 199,
+      "dia_semana": "miercoles",
+      "ventas": 46
+    },
+    {
+      "semana": 29,
+      "dia_global": 200,
+      "dia_semana": "jueves",
+      "ventas": 48
+    },
+    {
+      "semana": 29,
+      "dia_global": 201,
+      "dia_semana": "viernes",
+      "ventas": 43
+    },
+    {
+      "semana": 29,
+      "dia_global": 202,
+      "dia_semana": "sabado",
+      "ventas": 59
+    },
+    {
+      "semana": 29,
+      "dia_global": 203,
+      "dia_semana": "domingo",
+      "ventas": 42
+    },
+    {
+      "semana": 30,
+      "dia_global": 204,
+      "dia_semana": "lunes",
+      "ventas": 30
+    },
+    {
+      "semana": 30,
+      "dia_global": 205,
+      "dia_semana": "martes",
+      "ventas": 34
+    },
+    {
+      "semana": 30,
+      "dia_global": 206,
+      "dia_semana": "miercoles",
+      "ventas": 45
+    },
+    {
+      "semana": 30,
+      "dia_global": 207,
+      "dia_semana": "jueves",
+      "ventas": 50
+    },
+    {
+      "semana": 30,
+      "dia_global": 208,
+      "dia_semana": "viernes",
+      "ventas": 43
+    },
+    {
+      "semana": 30,
+      "dia_global": 209,
+      "dia_semana": "sabado",
+      "ventas": 55
+    },
+    {
+      "semana": 30,
+      "dia_global": 210,
+      "dia_semana": "domingo",
+      "ventas": 41
+    },
+    {
+      "semana": 31,
+      "dia_global": 211,
+      "dia_semana": "lunes",
+      "ventas": 52
+    },
+    {
+      "semana": 31,
+      "dia_global": 212,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 31,
+      "dia_global": 213,
+      "dia_semana": "miercoles",
+      "ventas": 47
+    },
+    {
+      "semana": 31,
+      "dia_global": 214,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 31,
+      "dia_global": 215,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 31,
+      "dia_global": 216,
+      "dia_semana": "sabado",
+      "ventas": 60
+    },
+    {
+      "semana": 31,
+      "dia_global": 217,
+      "dia_semana": "domingo",
+      "ventas": 47
+    },
+    {
+      "semana": 32,
+      "dia_global": 218,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 32,
+      "dia_global": 219,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 32,
+      "dia_global": 220,
+      "dia_semana": "miercoles",
+      "ventas": 35
+    },
+    {
+      "semana": 32,
+      "dia_global": 221,
+      "dia_semana": "jueves",
+      "ventas": 45
+    },
+    {
+      "semana": 32,
+      "dia_global": 222,
+      "dia_semana": "viernes",
+      "ventas": 59
+    },
+    {
+      "semana": 32,
+      "dia_global": 223,
+      "dia_semana": "sabado",
+      "ventas": 49
+    },
+    {
+      "semana": 32,
+      "dia_global": 224,
+      "dia_semana": "domingo",
+      "ventas": 44
+    },
+    {
+      "semana": 33,
+      "dia_global": 225,
+      "dia_semana": "lunes",
+      "ventas": 35
+    },
+    {
+      "semana": 33,
+      "dia_global": 226,
+      "dia_semana": "martes",
+      "ventas": 43
+    },
+    {
+      "semana": 33,
+      "dia_global": 227,
+      "dia_semana": "miercoles",
+      "ventas": 41
+    },
+    {
+      "semana": 33,
+      "dia_global": 228,
+      "dia_semana": "jueves",
+      "ventas": 59
+    },
+    {
+      "semana": 33,
+      "dia_global": 229,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 33,
+      "dia_global": 230,
+      "dia_semana": "sabado",
+      "ventas": 48
+    },
+    {
+      "semana": 33,
+      "dia_global": 231,
+      "dia_semana": "domingo",
+      "ventas": 47
+    },
+    {
+      "semana": 34,
+      "dia_global": 232,
+      "dia_semana": "lunes",
+      "ventas": 39
+    },
+    {
+      "semana": 34,
+      "dia_global": 233,
+      "dia_semana": "martes",
+      "ventas": 31
+    },
+    {
+      "semana": 34,
+      "dia_global": 234,
+      "dia_semana": "miercoles",
+      "ventas": 36
+    },
+    {
+      "semana": 34,
+      "dia_global": 235,
+      "dia_semana": "jueves",
+      "ventas": 51
+    },
+    {
+      "semana": 34,
+      "dia_global": 236,
+      "dia_semana": "viernes",
+      "ventas": 48
+    },
+    {
+      "semana": 34,
+      "dia_global": 237,
+      "dia_semana": "sabado",
+      "ventas": 45
+    },
+    {
+      "semana": 34,
+      "dia_global": 238,
+      "dia_semana": "domingo",
+      "ventas": 43
+    },
+    {
+      "semana": 35,
+      "dia_global": 239,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 35,
+      "dia_global": 240,
+      "dia_semana": "martes",
+      "ventas": 36
+    },
+    {
+      "semana": 35,
+      "dia_global": 241,
+      "dia_semana": "miercoles",
+      "ventas": 46
+    },
+    {
+      "semana": 35,
+      "dia_global": 242,
+      "dia_semana": "jueves",
+      "ventas": 42
+    },
+    {
+      "semana": 35,
+      "dia_global": 243,
+      "dia_semana": "viernes",
+      "ventas": 53
+    },
+    {
+      "semana": 35,
+      "dia_global": 244,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 35,
+      "dia_global": 245,
+      "dia_semana": "domingo",
+      "ventas": 54
+    },
+    {
+      "semana": 36,
+      "dia_global": 246,
+      "dia_semana": "lunes",
+      "ventas": 44
+    },
+    {
+      "semana": 36,
+      "dia_global": 247,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 36,
+      "dia_global": 248,
+      "dia_semana": "miercoles",
+      "ventas": 55
+    },
+    {
+      "semana": 36,
+      "dia_global": 249,
+      "dia_semana": "jueves",
+      "ventas": 50
+    },
+    {
+      "semana": 36,
+      "dia_global": 250,
+      "dia_semana": "viernes",
+      "ventas": 54
+    },
+    {
+      "semana": 36,
+      "dia_global": 251,
+      "dia_semana": "sabado",
+      "ventas": 60
+    },
+    {
+      "semana": 36,
+      "dia_global": 252,
+      "dia_semana": "domingo",
+      "ventas": 56
+    },
+    {
+      "semana": 37,
+      "dia_global": 253,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 37,
+      "dia_global": 254,
+      "dia_semana": "martes",
+      "ventas": 39
+    },
+    {
+      "semana": 37,
+      "dia_global": 255,
+      "dia_semana": "miercoles",
+      "ventas": 37
+    },
+    {
+      "semana": 37,
+      "dia_global": 256,
+      "dia_semana": "jueves",
+      "ventas": 39
+    },
+    {
+      "semana": 37,
+      "dia_global": 257,
+      "dia_semana": "viernes",
+      "ventas": 59
+    },
+    {
+      "semana": 37,
+      "dia_global": 258,
+      "dia_semana": "sabado",
+      "ventas": 46
+    },
+    {
+      "semana": 37,
+      "dia_global": 259,
+      "dia_semana": "domingo",
+      "ventas": 38
+    },
+    {
+      "semana": 38,
+      "dia_global": 260,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 38,
+      "dia_global": 261,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 38,
+      "dia_global": 262,
+      "dia_semana": "miercoles",
+      "ventas": 37
+    },
+    {
+      "semana": 38,
+      "dia_global": 263,
+      "dia_semana": "jueves",
+      "ventas": 46
+    },
+    {
+      "semana": 38,
+      "dia_global": 264,
+      "dia_semana": "viernes",
+      "ventas": 55
+    },
+    {
+      "semana": 38,
+      "dia_global": 265,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 38,
+      "dia_global": 266,
+      "dia_semana": "domingo",
+      "ventas": 46
+    },
+    {
+      "semana": 39,
+      "dia_global": 267,
+      "dia_semana": "lunes",
+      "ventas": 43
+    },
+    {
+      "semana": 39,
+      "dia_global": 268,
+      "dia_semana": "martes",
+      "ventas": 40
+    },
+    {
+      "semana": 39,
+      "dia_global": 269,
+      "dia_semana": "miercoles",
+      "ventas": 48
+    },
+    {
+      "semana": 39,
+      "dia_global": 270,
+      "dia_semana": "jueves",
+      "ventas": 46
+    },
+    {
+      "semana": 39,
+      "dia_global": 271,
+      "dia_semana": "viernes",
+      "ventas": 57
+    },
+    {
+      "semana": 39,
+      "dia_global": 272,
+      "dia_semana": "sabado",
+      "ventas": 50
+    },
+    {
+      "semana": 39,
+      "dia_global": 273,
+      "dia_semana": "domingo",
+      "ventas": 53
+    },
+    {
+      "semana": 40,
+      "dia_global": 274,
+      "dia_semana": "lunes",
+      "ventas": 35
+    },
+    {
+      "semana": 40,
+      "dia_global": 275,
+      "dia_semana": "martes",
+      "ventas": 36
+    },
+    {
+      "semana": 40,
+      "dia_global": 276,
+      "dia_semana": "miercoles",
+      "ventas": 37
+    },
+    {
+      "semana": 40,
+      "dia_global": 277,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 40,
+      "dia_global": 278,
+      "dia_semana": "viernes",
+      "ventas": 47
+    },
+    {
+      "semana": 40,
+      "dia_global": 279,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 40,
+      "dia_global": 280,
+      "dia_semana": "domingo",
+      "ventas": 45
+    },
+    {
+      "semana": 41,
+      "dia_global": 281,
+      "dia_semana": "lunes",
+      "ventas": 46
+    },
+    {
+      "semana": 41,
+      "dia_global": 282,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 41,
+      "dia_global": 283,
+      "dia_semana": "miercoles",
+      "ventas": 37
+    },
+    {
+      "semana": 41,
+      "dia_global": 284,
+      "dia_semana": "jueves",
+      "ventas": 45
+    },
+    {
+      "semana": 41,
+      "dia_global": 285,
+      "dia_semana": "viernes",
+      "ventas": 47
+    },
+    {
+      "semana": 41,
+      "dia_global": 286,
+      "dia_semana": "sabado",
+      "ventas": 54
+    },
+    {
+      "semana": 41,
+      "dia_global": 287,
+      "dia_semana": "domingo",
+      "ventas": 46
+    },
+    {
+      "semana": 42,
+      "dia_global": 288,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 42,
+      "dia_global": 289,
+      "dia_semana": "martes",
+      "ventas": 36
+    },
+    {
+      "semana": 42,
+      "dia_global": 290,
+      "dia_semana": "miercoles",
+      "ventas": 42
+    },
+    {
+      "semana": 42,
+      "dia_global": 291,
+      "dia_semana": "jueves",
+      "ventas": 57
+    },
+    {
+      "semana": 42,
+      "dia_global": 292,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 42,
+      "dia_global": 293,
+      "dia_semana": "sabado",
+      "ventas": 51
+    },
+    {
+      "semana": 42,
+      "dia_global": 294,
+      "dia_semana": "domingo",
+      "ventas": 54
+    },
+    {
+      "semana": 43,
+      "dia_global": 295,
+      "dia_semana": "lunes",
+      "ventas": 34
+    },
+    {
+      "semana": 43,
+      "dia_global": 296,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 43,
+      "dia_global": 297,
+      "dia_semana": "miercoles",
+      "ventas": 48
+    },
+    {
+      "semana": 43,
+      "dia_global": 298,
+      "dia_semana": "jueves",
+      "ventas": 35
+    },
+    {
+      "semana": 43,
+      "dia_global": 299,
+      "dia_semana": "viernes",
+      "ventas": 53
+    },
+    {
+      "semana": 43,
+      "dia_global": 300,
+      "dia_semana": "sabado",
+      "ventas": 57
+    },
+    {
+      "semana": 43,
+      "dia_global": 301,
+      "dia_semana": "domingo",
+      "ventas": 40
+    },
+    {
+      "semana": 44,
+      "dia_global": 302,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 44,
+      "dia_global": 303,
+      "dia_semana": "martes",
+      "ventas": 48
+    },
+    {
+      "semana": 44,
+      "dia_global": 304,
+      "dia_semana": "miercoles",
+      "ventas": 45
+    },
+    {
+      "semana": 44,
+      "dia_global": 305,
+      "dia_semana": "jueves",
+      "ventas": 43
+    },
+    {
+      "semana": 44,
+      "dia_global": 306,
+      "dia_semana": "viernes",
+      "ventas": 42
+    },
+    {
+      "semana": 44,
+      "dia_global": 307,
+      "dia_semana": "sabado",
+      "ventas": 52
+    },
+    {
+      "semana": 44,
+      "dia_global": 308,
+      "dia_semana": "domingo",
+      "ventas": 40
+    },
+    {
+      "semana": 45,
+      "dia_global": 309,
+      "dia_semana": "lunes",
+      "ventas": 40
+    },
+    {
+      "semana": 45,
+      "dia_global": 310,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 45,
+      "dia_global": 311,
+      "dia_semana": "miercoles",
+      "ventas": 45
+    },
+    {
+      "semana": 45,
+      "dia_global": 312,
+      "dia_semana": "jueves",
+      "ventas": 50
+    },
+    {
+      "semana": 45,
+      "dia_global": 313,
+      "dia_semana": "viernes",
+      "ventas": 56
+    },
+    {
+      "semana": 45,
+      "dia_global": 314,
+      "dia_semana": "sabado",
+      "ventas": 60
+    },
+    {
+      "semana": 45,
+      "dia_global": 315,
+      "dia_semana": "domingo",
+      "ventas": 42
+    },
+    {
+      "semana": 46,
+      "dia_global": 316,
+      "dia_semana": "lunes",
+      "ventas": 37
+    },
+    {
+      "semana": 46,
+      "dia_global": 317,
+      "dia_semana": "martes",
+      "ventas": 44
+    },
+    {
+      "semana": 46,
+      "dia_global": 318,
+      "dia_semana": "miercoles",
+      "ventas": 46
+    },
+    {
+      "semana": 46,
+      "dia_global": 319,
+      "dia_semana": "jueves",
+      "ventas": 51
+    },
+    {
+      "semana": 46,
+      "dia_global": 320,
+      "dia_semana": "viernes",
+      "ventas": 54
+    },
+    {
+      "semana": 46,
+      "dia_global": 321,
+      "dia_semana": "sabado",
+      "ventas": 57
+    },
+    {
+      "semana": 46,
+      "dia_global": 322,
+      "dia_semana": "domingo",
+      "ventas": 43
+    },
+    {
+      "semana": 47,
+      "dia_global": 323,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 47,
+      "dia_global": 324,
+      "dia_semana": "martes",
+      "ventas": 45
+    },
+    {
+      "semana": 47,
+      "dia_global": 325,
+      "dia_semana": "miercoles",
+      "ventas": 42
+    },
+    {
+      "semana": 47,
+      "dia_global": 326,
+      "dia_semana": "jueves",
+      "ventas": 47
+    },
+    {
+      "semana": 47,
+      "dia_global": 327,
+      "dia_semana": "viernes",
+      "ventas": 53
+    },
+    {
+      "semana": 47,
+      "dia_global": 328,
+      "dia_semana": "sabado",
+      "ventas": 56
+    },
+    {
+      "semana": 47,
+      "dia_global": 329,
+      "dia_semana": "domingo",
+      "ventas": 44
+    },
+    {
+      "semana": 48,
+      "dia_global": 330,
+      "dia_semana": "lunes",
+      "ventas": 41
+    },
+    {
+      "semana": 48,
+      "dia_global": 331,
+      "dia_semana": "martes",
+      "ventas": 42
+    },
+    {
+      "semana": 48,
+      "dia_global": 332,
+      "dia_semana": "miercoles",
+      "ventas": 33
+    },
+    {
+      "semana": 48,
+      "dia_global": 333,
+      "dia_semana": "jueves",
+      "ventas": 49
+    },
+    {
+      "semana": 48,
+      "dia_global": 334,
+      "dia_semana": "viernes",
+      "ventas": 60
+    },
+    {
+      "semana": 48,
+      "dia_global": 335,
+      "dia_semana": "sabado",
+      "ventas": 58
+    },
+    {
+      "semana": 48,
+      "dia_global": 336,
+      "dia_semana": "domingo",
+      "ventas": 51
+    },
+    {
+      "semana": 49,
+      "dia_global": 337,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 49,
+      "dia_global": 338,
+      "dia_semana": "martes",
+      "ventas": 30
+    },
+    {
+      "semana": 49,
+      "dia_global": 339,
+      "dia_semana": "miercoles",
+      "ventas": 56
+    },
+    {
+      "semana": 49,
+      "dia_global": 340,
+      "dia_semana": "jueves",
+      "ventas": 46
+    },
+    {
+      "semana": 49,
+      "dia_global": 341,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 49,
+      "dia_global": 342,
+      "dia_semana": "sabado",
+      "ventas": 56
+    },
+    {
+      "semana": 49,
+      "dia_global": 343,
+      "dia_semana": "domingo",
+      "ventas": 44
+    },
+    {
+      "semana": 50,
+      "dia_global": 344,
+      "dia_semana": "lunes",
+      "ventas": 36
+    },
+    {
+      "semana": 50,
+      "dia_global": 345,
+      "dia_semana": "martes",
+      "ventas": 36
+    },
+    {
+      "semana": 50,
+      "dia_global": 346,
+      "dia_semana": "miercoles",
+      "ventas": 35
+    },
+    {
+      "semana": 50,
+      "dia_global": 347,
+      "dia_semana": "jueves",
+      "ventas": 46
+    },
+    {
+      "semana": 50,
+      "dia_global": 348,
+      "dia_semana": "viernes",
+      "ventas": 50
+    },
+    {
+      "semana": 50,
+      "dia_global": 349,
+      "dia_semana": "sabado",
+      "ventas": 53
+    },
+    {
+      "semana": 50,
+      "dia_global": 350,
+      "dia_semana": "domingo",
+      "ventas": 45
+    },
+    {
+      "semana": 51,
+      "dia_global": 351,
+      "dia_semana": "lunes",
+      "ventas": 44
+    },
+    {
+      "semana": 51,
+      "dia_global": 352,
+      "dia_semana": "martes",
+      "ventas": 35
+    },
+    {
+      "semana": 51,
+      "dia_global": 353,
+      "dia_semana": "miercoles",
+      "ventas": 45
+    },
+    {
+      "semana": 51,
+      "dia_global": 354,
+      "dia_semana": "jueves",
+      "ventas": 35
+    },
+    {
+      "semana": 51,
+      "dia_global": 355,
+      "dia_semana": "viernes",
+      "ventas": 59
+    },
+    {
+      "semana": 51,
+      "dia_global": 356,
+      "dia_semana": "sabado",
+      "ventas": 57
+    },
+    {
+      "semana": 51,
+      "dia_global": 357,
+      "dia_semana": "domingo",
+      "ventas": 48
+    },
+    {
+      "semana": 52,
+      "dia_global": 358,
+      "dia_semana": "lunes",
+      "ventas": 34
+    },
+    {
+      "semana": 52,
+      "dia_global": 359,
+      "dia_semana": "martes",
+      "ventas": 30
+    },
+    {
+      "semana": 52,
+      "dia_global": 360,
+      "dia_semana": "miercoles",
+      "ventas": 40
+    },
+    {
+      "semana": 52,
+      "dia_global": 361,
+      "dia_semana": "jueves",
+      "ventas": 42
+    },
+    {
+      "semana": 52,
+      "dia_global": 362,
+      "dia_semana": "viernes",
+      "ventas": 46
+    },
+    {
+      "semana": 52,
+      "dia_global": 363,
+      "dia_semana": "sabado",
+      "ventas": 58
+    },
+    {
+      "semana": 52,
+      "dia_global": 364,
+      "dia_semana": "domingo",
+      "ventas": 38
+    }
+  ]
+}
